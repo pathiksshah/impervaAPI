@@ -12,9 +12,7 @@ import pprint
 #cloudWAFAPIid=int(input("Enter Cloud WAF API key ID : "))
 #cloudWAFkey=input("Enter Cloud WAF API key : ")
 #AccountID = int(input("Enter Account ID :"))
-accountID = 1814107
-cloudWAFAPIid= 42836
-cloudWAFkey="ab9e8e9c-ffec-4454-8ff1-45f82b7c9f5b"
+
 
 # Get list of all user Emails that has any roles assinged to it. 
 # #Roles are only at RBAC account level.
